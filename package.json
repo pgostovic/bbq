@@ -1,0 +1,11 @@
+{
+    "name": "bbq",
+    "description": "Simple web server for serving up static files",
+    "author": "Patrick Gostovic <pg@phranq.com>",
+    "version": "1.0.0",
+    "dependencies":
+	{
+        "connect": "2.7.x",
+		"commander": "1.1.x"
+    }
+}
